@@ -1,0 +1,3 @@
+#run  the server
+if _name_=='_main_':
+app.run(debug=false,host='0.0.0.0')

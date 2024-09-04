@@ -1,0 +1,2 @@
+transformer = pickle.load(open("./lang-transformer.pkl","rb"))
+model pickle.load(open("./lang-model.pkl", "rb"))
